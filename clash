@@ -12,6 +12,7 @@ surge_ruleset=REJECT,rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list
 surge_ruleset=手动选择,rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list
 ;surge_ruleset=港台媒体,rules/DivineEngine/Surge/Ruleset/StreamingMedia/StreamingSE.list
 ;surge_ruleset=🍎 苹果服务,rules/DivineEngine/Surge/Ruleset/Apple.list
+surge_ruleset=手动选择,rules/lhie1/Surge/Surge%203/Provider/Proxy.list
 surge_ruleset=DIRECT,rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list
 surge_ruleset=手动选择,rules/DivineEngine/Surge/Ruleset/Global.list
 surge_ruleset=DIRECT,rules/DivineEngine/Surge/Ruleset/China.list
