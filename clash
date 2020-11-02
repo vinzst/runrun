@@ -26,6 +26,6 @@ surge_ruleset=节点选择,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=节点选择`select`[]DIRECT
-custom_proxy_group=自动选择`url-test`.*`http://www.gstatic.com/generate_204`500
+;custom_proxy_group=自动选择`url-test`.*`http://www.gstatic.com/generate_204`500
 ;fallback输入你常用的2-3个节点编号
 ;设置分组标志位
